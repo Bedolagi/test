@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 999.99,
+        "weight": 2.5
+    },
+    {
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 699.99,
+        "weight": 0.3
+    },
+    {
+        "name": "Headphones",
+        "category": "Electronics",
+        "price": 199.99,
+        "weight": 0.4
+    },
+    {
+        "name": "Keyboard",
+        "category": "Electronics",
+        "price": 99.99,
+        "weight": 1.1
+    },
+    {
+        "name": "Mouse",
+        "category": "Electronics",
+        "price": 49.99,
+        "weight": 0.2
+    },
+    {
+        "name": "T-shirt",
+        "category": "Clothing",
+        "price": 19.99,
+        "weight": 0.3
+    },
+    {
+        "name": "Jeans",
+        "category": "Clothing",
+        "price": 49.99,
+        "weight": 0.8
+    },
+    {
+        "name": "Sneakers",
+        "category": "Footwear",
+        "price": 79.99,
+        "weight": 0.9
+    },
+    {
+        "name": "Backpack",
+        "category": "Accessories",
+        "price": 59.99,
+        "weight": 1.2
+    },
+    {
+        "name": "Watch",
+        "category": "Accessories",
+        "price": 199.99,
+        "weight": 0.1
+    },
+    {
+        "name": "Desk",
+        "category": "Furniture",
+        "price": 199.99,
+        "weight": 25.0
+    },
+    {
+        "name": "Chair",
+        "category": "Furniture",
+        "price": 149.99,
+        "weight": 12.0
+    },
+    {
+        "name": "Monitor",
+        "category": "Electronics",
+        "price": 199.99,
+        "weight": 5.0
+    },
+    {
+        "name": "Printer",
+        "category": "Electronics",
+        "price": 129.99,
+        "weight": 7.5
+    },
+    {
+        "name": "Tablet",
+        "category": "Electronics",
+        "price": 349.99,
+        "weight": 0.6
+    },
+    {
+        "name": "Jacket",
+        "category": "Clothing",
+        "price": 89.99,
+        "weight": 1.0
+    },
+    {
+        "name": "Socks",
+        "category": "Clothing",
+        "price": 9.99,
+        "weight": 0.1
+    },
+    {
+        "name": "Hat",
+        "category": "Accessories",
+        "price": 24.99,
+        "weight": 0.2
+    },
+    {
+        "name": "Belt",
+        "category": "Accessories",
+        "price": 29.99,
+        "weight": 0.3
+    },
+    {
+        "name": "Sunglasses",
+        "category": "Accessories",
+        "price": 99.99,
+        "weight": 0.1
+    },
+    {
+        "name": "Book",
+        "category": "Stationery",
+        "price": 14.99,
+        "weight": 0.7
+    },
+    {
+        "name": "Pen",
+        "category": "Stationery",
+        "price": 2.99,
+        "weight": 0.05
+    },
+    {
+        "name": "Notebook",
+        "category": "Stationery",
+        "price": 4.99,
+        "weight": 0.3
+    },
+    {
+        "name": "Water Bottle",
+        "category": "Accessories",
+        "price": 19.99,
+        "weight": 0.4
+    },
+    {
+        "name": "Umbrella",
+        "category": "Accessories",
+        "price": 24.99,
+        "weight": 0.8
+    },
+    {
+        "name": "Wallet",
+        "category": "Accessories",
+        "price": 39.99,
+        "weight": 0.2
+    },
+    {
+        "name": "Scarf",
+        "category": "Clothing",
+        "price": 29.99,
+        "weight": 0.3
+    },
+    {
+        "name": "Gloves",
+        "category": "Clothing",
+        "price": 19.99,
+        "weight": 0.2
+    },
+    {
+        "name": "Speaker",
+        "category": "Electronics",
+        "price": 129.99,
+        "weight": 1.5
+    },
+    {
+        "name": "Camera",
+        "category": "Electronics",
+        "price": 599.99,
+        "weight": 1.2
+    }
+]
